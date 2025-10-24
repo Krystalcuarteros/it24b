@@ -3,9 +3,10 @@
         "name":"ICS Laboratory 1",
         "title":"ICS Lab 1",
         "description":"This is the ICS Laboratory 1, yipee",
-        "img":"https://ichef.bbci.co.uk/news/480/cpsprodpb/F1F2/production/_118283916_b19c5a1f-162b-410b-8169-f58f0d153752.jpg.webp",
+        "img":"https://i.pinimg.com/originals/69/f3/06/69f30621a0729b0d546a19532c09c72a.gif",
         "lat":8.3593,
-        "lng":124.8691
+        "lng":124.8691,
+        "locationType":"Laboratory"
     },
     {
         "name":"Comfort Room 1",
@@ -13,6 +14,7 @@
         "description":"",
         "img":"https://media1.tenor.com/m/fJK1WcHbXFAAAAAC/stuck-in-toilet-fell-into-toilet.gif",
         "lat":8.359009695166359,
-        "lng":124.86911436078864
+        "lng":124.86911436078864,
+        "locationType":"Other"
     }
 ]
